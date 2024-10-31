@@ -7,14 +7,14 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "𝐈𝐬𝐥𝐚𝐦𝐢𝐜𝐤 𝐂𝐡𝐚𝐭",
+  "BOTNAME": "🥰মিকাইল🥰",
   "PREFIX": "/",
   "OPERATOR": [
-    "100000350435589",
+    "",
     ""
   ],
   "ADMINBOT": [
-    "100000350435589",
+    "",
     "100050059535072",
     "100027815949676"
   ],
